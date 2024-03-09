@@ -19,3 +19,14 @@ This project was completed in Tableau Desktop. The purpose of this project was t
 # Project Deliverable
 
 [Click Here to View the Deliverable on Tableau Public](https://public.tableau.com/views/LexiPughIntelProject/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+<br>
+
+Note on the Information Contained in Each Sheet
+
+- Data Terms: Contains a Data Dictionary for the Intel dataset used in the project
+- Tasks: Contains the tasks I followed to create the visualizations
+- Questions and Answers: Contains questions on individual visualizations and my answers to them
+- Analysis: Contains my reccomendation of where Intel should build their new data center
+- Dashboard: Contains an interactive dashboard of three key visualizations from the project
+- All other sheets are individual visualizations I made while following the tasks!
